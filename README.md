@@ -1,7 +1,7 @@
 <p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
 
 <h1 align="center">Lockyz Media Modpack Launcher</h1>
-<h2 align="center">Based off of Helios Launcher</h2>
+<p align="center">This project is based off of the Helios Launcher by dscalzi. Please star [their repo](https://github.com/dscalzi/HeliosLauncher) as this wouldn't be possible without it</p>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
@@ -210,3 +210,5 @@ The best way to contact the developers is on Discord.
 [wiki]: https://github.com/dscalzi/HeliosLauncher/wiki 'wiki'
 [nebula]: https://github.com/dscalzi/Nebula 'dscalzi/Nebula'
 [v2branch]: https://github.com/dscalzi/HeliosLauncher/tree/ts-refactor 'v2 branch'
+
+<h1> Lockyz Media is NOT affiliated with Mojang, Microsoft or Minecraft. All copyright belongs to it's respective owners</h1>
